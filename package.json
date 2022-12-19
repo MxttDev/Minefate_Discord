@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MattyTheDeveloper/Minefate/issues"
   },
-  "homepage": "https://github.com/MattyTheDeveloper/Minefate#readme"
+  "homepage": "https://github.com/MattyTheDeveloper/Minefate#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
