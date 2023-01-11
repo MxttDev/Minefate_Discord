@@ -1,0 +1,4 @@
+{
+  "getUser": "http://localhost:3000/users",
+  "getSpecificUserID": "http://localhost:3000/users/id/"
+}
